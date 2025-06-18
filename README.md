@@ -1,4 +1,4 @@
-# 🔐 secure-chat
+# 🔐 Cipher-Chat
 
 ## 📌 Description
 
