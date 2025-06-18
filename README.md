@@ -24,6 +24,11 @@
 
 ---
 
+## Screenshots
+- **[url=https://ibb.co/YBRtbhCx][img]https://i.ibb.co/YBRtbhCx/Enter-Name.png[/img][/url]**
+- ** [url=https://ibb.co/nqvJ5DKb][img]https://i.ibb.co/nqvJ5DKb/Interface.png[/img][/url]**
+
+
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
