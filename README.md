@@ -25,8 +25,8 @@
 ---
 
 ## Screenshots
-- **https://ibb.co/YBRtbhCx**
-- **https://ibb.co/nqvJ5DKb**
+- ![Alt text]**https://ibb.co/YBRtbhCx**
+- ![Alt text]**https://ibb.co/nqvJ5DKb**
 
 
 ## 🚀 Getting Started
