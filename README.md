@@ -25,8 +25,8 @@
 ---
 
 ## Screenshots
-- ![Enter Name](https://github.com/user-attachments/assets/0a9a9299-499d-4820-957b-6a0bb3863ccf)
--![Interface](https://github.com/user-attachments/assets/ee54f5cd-b34e-459a-b84b-e502ab5ee7dd)
+![Enter Name](https://github.com/user-attachments/assets/0a9a9299-499d-4820-957b-6a0bb3863ccf)
+![Interface](https://github.com/user-attachments/assets/ee54f5cd-b34e-459a-b84b-e502ab5ee7dd)
 
 
 
