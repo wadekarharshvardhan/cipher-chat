@@ -1,0 +1,4 @@
+cryptography
+pyinstaller
+colorama
+tkinter
