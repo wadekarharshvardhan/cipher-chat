@@ -1,5 +1,6 @@
 import socket
 import threading
+import os
 
 HOST = '0.0.0.0'  # Accept connections from any IP
 PORT = int(os.environ.get('PORT', 12345))
