@@ -1,4 +1,3 @@
 cryptography
-pyinstaller
 colorama
 tkinter
